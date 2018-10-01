@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Concentration Card Game - As part of your interview process with Circadence
+Concentration Card Game - A part of the interview process with Circadence
 
 An example of this code working can be found here :
 https://card-concentration-v2.firebaseapp.com/
