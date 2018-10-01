@@ -5,7 +5,7 @@ Concentration Card Game - A part of the interview process with Circadence
 An example of this code working can be found here :
 https://card-concentration-v2.firebaseapp.com/
  
-WARNING :: Circadence has access to this code if you copy mine,  and cheat they will know.
+WARNING :: Circadence has access to this code if you copy mine,  and cheat, they will know.
 
 Game Description
 When the user clicks the ‘New Game’ button, shuffle the deck of cards, then layout the cards, face down, in 4-rows with 13 cards in each row.
