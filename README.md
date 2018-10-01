@@ -4,8 +4,7 @@ Concentration Card Game - As part of your interview process with Circadence
 
 An example of this code working can be found here :
 https://card-concentration-v2.firebaseapp.com/
-
-WARNING :: This code is not production ready. Could be optimized. 
+ 
 WARNING :: Circadence has access to this code if you copy mine,  and cheat they will know.
 
 Game Description
